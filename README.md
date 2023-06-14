@@ -6,3 +6,6 @@
 
   ## Data Used
 
+  # Data - HR Data with over 2200 rows
+  # Data Cleaning and Analysis - MySQL
+  # Data Visualization - Power BI
