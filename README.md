@@ -6,8 +6,8 @@
 
 
 # Questions for Report
-- **1. What is the gender breakdown of employees in the company?
--- 2. What is the race/ethnicity breakdown of employees in the company?
+- **What is the gender breakdown of employees in the company?**
+- **What is the race/ethnicity breakdown of employees in the company?**
 -- 3. What is the age distribution of employees in the company?
 -- 4. How many employees work at headquarters versus remote locations?
 -- 5. What is the average length of employment for employees who have been terminated?
