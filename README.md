@@ -33,11 +33,11 @@
 - **The net change in employees has increased over the years.**
 - **The average tenure for each department is about 8 years with Accounting, Auditing, and Engineering having the highest and Legal, and Product Management having the lowest.**
 
-# Limitation in the analyaia
+# Limitation in the analysis
 - **Some records had negative ages and these were excluded during querying. Ages used were 18 years and above (age>=18).**
 - **Some termdates were far into the future and were not included in the analysis. The only term dates used were those less than or equal to the current date.**
 
-  # Data Used
-  - **Data - HR Data with over 2200 rows**
-  - **Data Cleaning and Analysis - MySQL**
-  - **Data Visualization - Power BI**
+# Data Used
+  - **HR Data with over 2200 rows**
+  - **MySQL Workbench used for Data Cleaning and Analysis**
+  - **Power BI used for Data Visualization**
